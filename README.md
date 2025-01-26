@@ -12,6 +12,6 @@ var Sergei = new
     Testing = new[] { "xUnit", "NUnit", "Postman" }
 };
 ```
-# 📫 How to reach me:
-Email: sega.i9500@gmail.com
-Instagram: @marakoopa
+### 📫 How to reach me:
+- **Email:** [sega.i9500@gmail.com](mailto:sega.i9500@gmail.com)  
+- **Instagram:** [@marakoopa](https://www.instagram.com/marakoopa)

@@ -11,3 +11,8 @@ var Sergei = new
     Cloud = new[] { "AWS", "Azure" },
     Testing = new[] { "xUnit", "NUnit", "Postman" }
 };
+```
+
+📫 How to reach me:
+Email: sega.i9500@gmail.com
+Instagram: @marakoopa

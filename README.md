@@ -11,3 +11,7 @@ var Sergei = new
     Cloud = new[] { "AWS", "Azure" },
     Testing = new[] { "xUnit", "NUnit", "Postman" }
 };
+
+📫 How to reach me:
+Email: your-email@example.com
+Instagram: @your_instagram_handle

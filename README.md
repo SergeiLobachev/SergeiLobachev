@@ -9,6 +9,5 @@ var Sergei = new
     Frontend = new[] { "React", "TypeScript", "HTML5", "CSS3" },
     Tools = new[] { "Docker", "Kubernetes", "Git", "Jira", "PyTorch", "NumPy" },
     Cloud = new[] { "AWS", "Azure" },
-    Projects = new[] { "AAA Game Development", "Educational Management Systems", "Predictive Maintenance Systems" },
     Testing = new[] { "xUnit", "NUnit", "Postman" }
 };

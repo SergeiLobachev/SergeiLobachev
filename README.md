@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SergeiLobachev/SergeiLobachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+var Sergei = new
+{
+    Role = "Software Engineer",
+    Love = new[] { "Backend Development", "AI/ML", "Game Development", "Cloud Technologies" },
+    Backend = new[] { "C#", ".NET", "Python", "PostgreSQL", "Microservices Architecture" },
+    Frontend = new[] { "React", "TypeScript", "HTML5", "CSS3" },
+    Tools = new[] { "Docker", "Kubernetes", "Git", "Jira", "PyTorch", "NumPy" },
+    Cloud = new[] { "AWS", "Azure" },
+    Projects = new[] { "AAA Game Development", "Educational Management Systems", "Predictive Maintenance Systems" },
+    Testing = new[] { "xUnit", "NUnit", "Postman" }
+};

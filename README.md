@@ -17,7 +17,7 @@ var Sergei = new
 - **Instagram:** [@marakoopa](https://www.instagram.com/marakoopa)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeiLobachev&show_icons=true&theme=radical)
 
 ### 🎨 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiLobachev&layout=compact&theme=radical)

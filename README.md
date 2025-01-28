@@ -16,8 +16,8 @@ var Sergei = new
 - **Email:** [sega.i9500@gmail.com](mailto:sega.i9500@gmail.com)  
 - **Instagram:** [@marakoopa](https://www.instagram.com/marakoopa)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeiLobachev&show_icons=true&theme=radical)
+## 📊 GitHub Stats & Languages
 
-### 🎨 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiLobachev&layout=compact&theme=radical)
+| GitHub Stats | Languages |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeiLobachev&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiLobachev&layout=compact&theme=radical) |

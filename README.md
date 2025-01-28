@@ -21,4 +21,4 @@ var Sergei = new
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeiLobachev&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiLobachev&layout=compact&theme=radical) |
 
 
-![WakaTime Stats]([https://res.cloudinary.com/dft5zowzl/image/upload/wakatime_ncsyir.jpg](https://ilsentertainment-916809258.imgix.net/image/upload/wakatime_sxcbem.jpg))
+![WakaTime Stats](https://ilsentertainment-916809258.imgix.net/image/upload/wakatime_sxcbem.jpg)

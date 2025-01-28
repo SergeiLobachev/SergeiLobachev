@@ -1,0 +1,6 @@
+# 🛠 Logs & Debugging
+logs/
+debug.log
+npm-debug.log
+.DS_Store
+.idea/
